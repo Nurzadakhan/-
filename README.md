@@ -16,10 +16,10 @@
 
 ## Скриншоты
 
-![Главное окно]([screenshot.png](https://github.com/Nurzadakhan/-/edit/main/interfaces.png))  
+![Главное окно](https://github.com/Nurzadakhan/-/edit/main/interfaces.png)  
 *Пример интерфейса*
 
-![Сгенерированный PDF]([example_pdf.png](https://github.com/Nurzadakhan/-/blob/main/diplomas.pdf))  
+![Сгенерированный PDF](https://github.com/Nurzadakhan/-/blob/main/diplomas.pdf)  
 *Результат – диплом и приложение*
 
 ## Установка и запуск
