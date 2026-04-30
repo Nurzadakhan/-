@@ -1,0 +1,24 @@
+# Временные и скомпилированные файлы
+*.pyc
+__pycache__/
+build/
+dist/
+*.spec
+temp_*.jpg
+*.pdf
+*.xlsx~
+*.xls~
+
+# Виртуальное окружение
+venv/
+diplom_env/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Сгенерированные exe (если не хотите хранить бинарники)
+*.exe
